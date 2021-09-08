@@ -13,7 +13,7 @@ defmodule Cards do
 
   """
   def hello do
-    :world
+    "hello world"
   end
 end
 #
